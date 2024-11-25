@@ -1,0 +1,13 @@
+[tool.poetry]
+name = "pokemon-card-recognition"
+version = "0.1.0"
+description = "An app to recognize and evaluate price of Pokemon cards from pictures"
+authors = ["Théo Laperrouse"]
+
+[tool.poetry.dependencies]
+python = "3.10.12"
+pillow = "^9.0"
+inference-sdk = "^0.24.0"
+pokemontcgsdk = "^3.4.0"
+tcgdex-sdk = "^2.0.1"
+python-dotenv = "^1.0.1"

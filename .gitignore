@@ -1,0 +1,5 @@
+/cards
+**/__pycache__
+.env
+detected_cards
+cards.jpeg
